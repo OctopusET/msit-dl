@@ -6,6 +6,8 @@ The MSIT website publishes government notices with file attachments in HWP 5.0,
 HWPX, and ODT formats simultaneously, making them useful for testing document
 format import filters.
 
+**Note:** This is slop-coded for quick bulk downloading. Don't expect clean code.
+
 ## Install
 
 ```
