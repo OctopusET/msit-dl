@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=64"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "msit-dl"
+version = "0.1.0"
+description = "Download HWP/HWPX/ODT documents from Korean MSIT press releases"
+readme = "README.md"
+license = "GPL-3.0-or-later"
+requires-python = ">=3.10"
+
+[project.scripts]
+msit-dl = "msit_dl:main"
+
+[project.urls]
+Homepage = "https://github.com/OctopusET/msit-dl"

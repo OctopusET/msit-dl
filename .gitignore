@@ -1,0 +1,10 @@
+__pycache__/
+*.egg-info/
+dist/
+build/
+.venv/
+*.pdf
+*.hwp
+*.hwpx
+*.odt
+test-output/
